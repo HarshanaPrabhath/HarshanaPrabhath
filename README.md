@@ -1,6 +1,6 @@
 # HarshanaPrabhath
 
-This is the home page of HarshanaPrabhath
+........This is the home page of HarshanaPrabhath...........
 
  I'm a driven undergraduate student currently studying at Ruhuna University, 
  passionately pursuing a degree in BICT (Bachelor of Information and Communication Technology). 
