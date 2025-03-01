@@ -50,8 +50,8 @@ I am an enthusiastic BICT undergraduate at University of Ruhuna, passionate abou
 
 ### 🌟 My GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HarshanaPrabhath-git&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshanaPrabhath-git&layout=compact&theme=radical&count_private=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HarshanaPrabhath&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshanaPrabhath&layout=compact&theme=radical&count_private=true" alt="Top Languages" />
 </div>
 
 ---
