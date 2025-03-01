@@ -1,8 +1,8 @@
 <div align="center">
   <h1>👋 Hi, I'm Harshana Prabhath!</h1>
-  <p>Passionate about building mobile, desktop, and web applications with a focus on high-quality and user-friendly experiences.</p>
+  <p>Passionate about building high-quality and user-friendly, desktop, and web applications using Java, Spring Boot, and React</p>
   
-  <a href="https://github.com/Mohamed-Irfan-git">
+  <a href="https://github.com/HarshanaPrabhath">
     <img src="https://img.shields.io/github/followers/Mohamed-Irfan-git?label=Follow&style=flat&color=blue&labelColor=green&logo=github&logoColor=white" alt="GitHub Followers" />
   </a>
   <a href="https://github.com/Mohamed-Irfan-git?tab=repositories">
