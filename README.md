@@ -12,7 +12,7 @@
 </div>
 
 ### 🚀 About Me
-I am an enthusiastic *BICT* undergraduate at *University of Ruhuna* with a strong passion for developing applications across different platforms. Whether it’s crafting *mobile apps, designing **web applications, or creating powerful **desktop solutions*, I’m always learning and experimenting to build things that matter.
+I am an enthusiastic BICT undergraduate at University of Ruhuna, passionate about developing applications across different platforms. Whether it’s designing web applications or creating powerful desktop solutions, I’m always learning and experimenting to build things that matter.
 
 ---
 
