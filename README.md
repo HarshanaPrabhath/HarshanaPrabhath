@@ -50,16 +50,18 @@ I am an enthusiastic BICT undergraduate at University of Ruhuna, passionate abou
 
 ### 🌟 My GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohamed-Irfan-git&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Irfan-git&layout=compact&theme=radical&count_private=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=-HarshanaPrabhath-git&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?usernameHarshanaPrabhath-git&layout=compact&theme=radical&count_private=true" alt="Top Languages" />
 </div>
 
 ---
 
 ### 📬 Let’s Connect
-- *Email*: irfanmt29@gmail.com
-- *LinkedIn*: [Mohamed Irfan's LinkedIn](https://www.linkedin.com/in/mohamed-irfan-293882325)
-- *GitHub*: [Mohamed-Irfan-git](https://github.com/Mohamed-Irfan-git)
+- *Email*: harshanaprabhath147@gmail.com
+- *LinkedIn*: [Harshana Prabhath's LinkedIn](https://www.linkedin.com/in/harshana-kulathunga-b5978019a/)
+- *GitHub*: [Harshana Prabhath-git](https://github.com/HarshanaPrabhath)
+- *LeetCode*:[Harshana Prabhath - LeetCode](https://leetcode.com/u/HarshanaPrabhath/).
+- 
 
 ---
 
