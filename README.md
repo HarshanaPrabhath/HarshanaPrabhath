@@ -5,7 +5,7 @@
   <a href="https://github.com/HarshanaPrabhath">
     <img src="https://img.shields.io/github/followers/Mohamed-Irfan-git?label=Follow&style=flat&color=blue&labelColor=green&logo=github&logoColor=white" alt="GitHub Followers" />
   </a>
-  <a href="https://github.com/Mohamed-Irfan-git?tab=repositories">
+  <a href="-https://github.com/HarshanaPrabhath-git?tab=repositories">
     <img src="https://img.shields.io/github/stars/Mohamed-Irfan-git?style=flat&color=yellow&labelColor=purple&logo=github&logoColor=black" alt="GitHub Stars" />
   </a>
   <hr>
