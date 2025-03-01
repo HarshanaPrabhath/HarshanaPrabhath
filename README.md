@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>👋 Hi, I'm Mohamed Irfan!</h1>
+  <h1>👋 Hi, I'm Harshana Prabhath!</h1>
   <p>Passionate about building mobile, desktop, and web applications with a focus on high-quality and user-friendly experiences.</p>
   
   <a href="https://github.com/Mohamed-Irfan-git">
