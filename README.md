@@ -22,15 +22,9 @@ I am an enthusiastic BICT undergraduate at University of Ruhuna, passionate abou
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="40" height="40" style="border: 2px solid #4CAF50; border-radius: 10px;"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" width="40" height="40" style="border: 2px solid #4CAF50; border-radius: 10px;"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML" width="40" height="40" style="border: 2px solid #4CAF50; border-radius: 10px;"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS" width="40" height="40" style="border: 2px solid #4CAF50; border-radius: 10px;"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" title="Dart" width="40" height="40" style="border: 2px solid #4CAF50; border-radius: 10px;"/>&nbsp;
- 
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" title="Go" width="40" height="40" style="border: 2px solid #4CAF50; border-radius: 10px;"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" title="Rust" width="40" height="40" style="border: 2px solid #FF0000; border-radius: 10px;"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" title="PHP" width="40" height="40" style="border: 2px solid #4CAF50; border-radius: 10px;"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS" width="40" height="40" style="border: 2px solid #4CAF50; border-radius: 10px;"/>&nbsp; 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" title="Spring Boot" width="40" height="40" style="border: 2px solid #4CAF50; border-radius: 10px;"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" title="Flutter" width="40" height="40" style="border: 2px solid #4CAF50; border-radius: 10px;"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" width="40" height="40" style="border: 2px solid #4CAF50; border-radius: 10px;"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" width="40" height="40" style="border: 2px solid #4CAF50; border-radius: 10px;"/>&nbsp;
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" width="40" height="40" style="border: 2px solid #61DBFB; border-radius: 10px;"/>&nbsp;
  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman" width="40" height="40" style="border: 2px solid #FF6C37; border-radius: 10px;"/>&nbsp;
 </div>
@@ -38,9 +32,8 @@ I am an enthusiastic BICT undergraduate at University of Ruhuna, passionate abou
 ---
 
 ### 🧠 Currently Learning
-- Mastering *Java* for powerful *desktop applications*
-- Diving deeper into *Flutter* for *mobile app development*
-- Exploring *Spring Boot* for crafting scalable *APIs*
+- Mastering *Java* for Backend with *SpringBoot*
+- Mastering *React* for Frontend 
 
 ---
 
@@ -50,8 +43,8 @@ I am an enthusiastic BICT undergraduate at University of Ruhuna, passionate abou
 ---
 
 ### 💡 What I’m Working On
-- Building full-stack web and mobile applications to strengthen my *Flutter, **Java, and **React* skills.
-- Enhancing my problem-solving abilities on *HackerRank* with *algorithms* and *data structures* challenges.
+- Building full-stack web and mobile applications to strengthen my **Java, and **React* skills.
+- Enhancing my problem-solving abilities on *LeetCode* with *algorithms* and *data structures* challenges.
 
 ---
 
